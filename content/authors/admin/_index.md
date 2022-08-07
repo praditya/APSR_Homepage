@@ -6,10 +6,10 @@ title: Aditya Pratap Singh Rajawat (Aa-dit-yuh)
 superuser: true
 
 # Role/position
-role: ''
+role: 'Motion Control Engineer'
 
 # Status emoji
-status: Love the Doing
+status: 
   icon: ☕️
 
 # Organizations/Affiliations
