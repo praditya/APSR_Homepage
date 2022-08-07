@@ -14,8 +14,8 @@ status: Love the Doing
 
 # Organizations/Affiliations
 organizations:
-- name: Jaguar Land Rover
-  url: "https://www.jaguarlandrover.com/"
+  - name: Jaguar Land Rover
+    url: "https://www.jaguarlandrover.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include robotics, vehicle dynamics and control.
