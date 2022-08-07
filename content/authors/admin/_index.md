@@ -60,7 +60,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/Aditya-resume.pdf
+    link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
@@ -68,4 +68,4 @@ social:
 
 Aditya Pratap Singh Rajawat is a Motion Control Engineer at Jaguar Land Rover. His research interests include robotics, vehicle dynamics , control and reinforcement learning. 
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/Aditya-resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
