@@ -32,12 +32,8 @@ content:
       tag : ADAS
     - name: Vehicle Engineering
       tag : VE
-    - name: Machine Learning
-      tag: ML
     - name: Computer Vision
       tag: CV
-    - name: NLP
-      tag: NLP
     - name: Hackathons
       tag : hack
 
