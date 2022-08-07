@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: M.Tech. Mechanical Engineering
     company: Indian Institute of Technology Kanpur
-    company_url: ''
+    company_url: 'https://www.iitk.ac.in/'
     company_logo: iitkred
     location: Kanpur
     date_start: '2019-01-01'
@@ -35,7 +35,7 @@ experience:
 
   - title: B.Tech. Mechanical Engineering
     company: Indian Institute of Technology Kanpur
-    company_url: ''
+    company_url: 'https://www.iitk.ac.in/'
     company_logo: iitkred
     location: Kanpur
     date_start: '2015-07-01'

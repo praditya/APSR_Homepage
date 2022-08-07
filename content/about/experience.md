@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Motion Control Engineer
     company: Jaguar Land Rover
-    company_url: ''
+    company_url: 'https://www.jaguarlandrover.com/'
     company_logo: jlrlogo
     location: Bangalore
     date_start: '2020-09-07'
@@ -32,13 +32,12 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * System Identification and Modelling
+        * Control Software Development 
   
   - title: Student Research Assistant
     company: Indian Institute of Technology Kanpur
-    company_url: ''
+    company_url: 'https://www.iitk.ac.in/'
     company_logo: iitkred
     location: Kanpur
     date_start: '2017-10-15'
@@ -46,8 +45,8 @@ experience:
     description: Developement of an indigenous All Wheel Drive, All Wheel Steer Electric Vehicle
 
   - title: Research Scholar
-    company: Texas A&M University
-    company_url: ''
+    company: Unmanned Systems Lab, Texas A&M University
+    company_url: 'https://unmanned.tamu.edu/'
     company_logo: tamulogo
     location: College Station
     date_start: '2018-05-15'

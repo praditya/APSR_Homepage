@@ -9,13 +9,13 @@ superuser: true
 role: ''
 
 # Status emoji
-status:
+status: Love the Doing
   icon: ☕️
 
 # Organizations/Affiliations
-#organizations:
-#- name: 腾讯
-#  url: ""
+organizations:
+- name: Jaguar Land Rover
+  url: "https://www.jaguarlandrover.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include robotics, vehicle dynamics and control.
