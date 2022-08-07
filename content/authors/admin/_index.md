@@ -68,6 +68,4 @@ social:
 
 Aditya Pratap Singh Rajawat is a Motion Control Engineer at Jaguar Land Rover. His research interests include robotics, vehicle dynamics , control and reinforcement learning. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/Aditya-resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.

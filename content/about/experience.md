@@ -22,12 +22,12 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Motion Control Engineer
+    company: Jaguar Land Rover
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company_logo: jlrlogo
+    location: Bangalore
+    date_start: '2020-09-07'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -35,15 +35,24 @@ experience:
         * Analysing
         * Modelling
         * Deploying
-
-  - title: Professor of Semiconductor Physics
-    company: University X
+  
+  - title: Student Research Assistant
+    company: Indian Institute of Technology Kanpur
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: iitkred
+    location: Kanpur
+    date_start: '2017-10-15'
+    date_end: '2020-07-15'
+    description: Developement of an indigenous All Wheel Drive, All Wheel Steer Electric Vehicle
+
+  - title: Research Scholar
+    company: Texas A&M University
+    company_url: ''
+    company_logo: tamulogo
+    location: College Station
+    date_start: '2018-05-15'
+    date_end: '2018-07-31'
+    description: System Identification and Control Design for 18-wheeled truck
 
 design:
   columns: '1'
